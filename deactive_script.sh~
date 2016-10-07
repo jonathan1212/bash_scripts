@@ -1,0 +1,21 @@
+#!/usr/bin/php
+
+<?php
+$user= 'root';
+$pass= '';
+$host= 'localhost';
+$db= 'yilinker_online_v4';
+
+try {
+    $dbh = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
+    foreach($dbh->query("SELECT p.product_id, pu.sku, p.status, p.name FROM Product p JOIN ProductUnit pu ON pu.product_id = p.product_id WHERE pu.sku = 'SK-T-PH-0-0000017567'") as $row) {
+        print_r($row);
+    }
+
+    $dbh = null;
+} catch (PDOException $e) {
+    print "Error!: " . $e->getMessage() . "<br/>";
+    die();
+}
+?>
+

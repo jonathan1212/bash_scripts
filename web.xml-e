@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<homepage>
+
+    <layout layoutId="1">
+        <categorySideBar>
+<category><categoryId>505860</categoryId></category>
+<category><categoryId>505866</categoryId></category>
+<category><categoryId>505872</categoryId></category>
+<category><categoryId>505878</categoryId></category>
+<category><categoryId>505885</categoryId></category>
+<category><categoryId>505891</categoryId></category>
+<category><categoryId>505834</categoryId></category>
+<category><categoryId>505840</categoryId></category>
+<category><categoryId>505848</categoryId></category>
+<category><categoryId>505854</categoryId></category>
+        </categorySideBar>
+        <banners>
+            <mainBanner>
+         <banner>
+                    <section><![CDATA[cms_banners]]></section>
+                    <alt><![CDATA[Mug Edition Exclusive]]></alt>
+                    <title><![CDATA[Mug Edition Exclusive]]></title>
+                    <target><![CDATA[/enjoy-the-sip]]></target>
+                    <image><![CDATA[mug-web.jpg]]></image>
+                </banner>
+        <banner>
+                    <section><![CDATA[cms_banners]]></section>
+                    <alt><![CDATA[Ticket GiveAway]]></alt>
+                    <title><![CDATA[Ticket GiveAway]]></title>
+                    <target><![CDATA[/mbc-music-show-champion-in-manila]]></target>
+                    <image><![CDATA[ticket-giveaway.jpg]]></image>
+                </banner>
+               <banner>
+                    <section><![CDATA[cms_banners]]></section>
+                    <alt><![CDATA[Team Superhero]]></alt>
+                    <title><![CDATA[Team Superhero]]></title>
+                    <target><![CDATA[/team-superhero]]></target>
+                    <image><![CDATA[superhero.jpg]]></image>
+                </banner>
+               <banner>
+                    <section><![CDATA[cms_banners]]></section>
+                    <alt><![CDATA[Gold Gym]]></alt>
+                    <title><![CDATA[Gold Gym]]></title>
+                    <target><![CDATA[/shop-and-win-gym-membership]]></target>
+                    <image><![CDATA[golds-gym.jpg]]></image>
+                </banner>
+                <banner>
+                    <section><![CDATA[cms_banners]]></section>
+                    <alt><![CDATA[First Purchase Voucher]]></alt>
+                    <title><![CDATA[First Purchase Voucher]]></title>
+                    <target><![CDATA[/first-purchase-voucher]]></target>
+                    <image><![CDATA[500-Voucher-Summer.jpg]]></image>
+                </banner>
+            </mainBanner>
+            <topRight>
+                <banner>
+                    <section><![CDATA[cms_banners]]></section>
+                    <alt><![CDATA[Be a seller!]]></alt>
+                    <title><![CDATA[Be a seller!]]></title>
+                    <target><![CDATA[https://seller.yilinker.com/register]]></target>
+                    <image><![CDATA[Be-a-Seller-Rainy-Season.jpg]]></image>
+                </banner>
+                <banner>
+                    <section><![CDATA[cms_banners]]></section>
+                    <alt><![CDATA[Be an affiliate!]]></alt>
+                    <title><![CDATA[Be an affiliate!]]></title>
+                    <target><![CDATA[https://affiliate.yilinker.com/landing-page]]></target>
+                    <image><![CDATA[Be-an-Affiliate-Rainy-Season.jpg]]></image>
+                </banner>
+            </topRight>
+        </banners>
+    </layout>
+
+    <!-- layout layoutId="6">
+        <title><![CDATA[Back to School]]></title>
+        <productImages>
+            <landing>
+                <banner>
+                    <section><![CDATA[cms_product_image]]></section>
+                    <alt><![CDATA[Back to School]]></alt>
+                    <title><![CDATA[Back to School]]></title>
+                    <target><![CDATA[/back-to-school-packages]]></target>
+                    <image><![CDATA[bts-img00.jpg]]></image>
+                </banner>
+            </landing>
+            <products>
+                <promo>
+                    <banner>
+                        <section><![CDATA[cms_product_image]]></section>
+                        <alt><![CDATA[Korean Sign Pen]]></alt>
+                        <title><![CDATA[Korean Sign Pen]]></title>
+                        <target><![CDATA[item/korean-sign-pen]]></target>
+                        <image><![CDATA[korean-sign-pen.jpg]]></image>
+                    </banner>
+                    <banner>
+                        <section><![CDATA[cms_product_image]]></section>
+                        <alt><![CDATA[High Sierra Backpack]]></alt>
+                        <title><![CDATA[High Sierra Backpack]]></title>
+                        <target><![CDATA[item/high-sierra-city-hunter-bp2]]></target>
+                        <image><![CDATA[high-sierra-backpack-2.jpg]]></image>
+                    </banner>
+                    <banner>
+                        <section><![CDATA[cms_product_image]]></section>
+                        <alt><![CDATA[Wheat Straw Tumbler 430ML]]></alt>
+                        <title><![CDATA[Wheat Straw Tumbler 430ML]]></title>
+                        <target><![CDATA[item/wheat-straw-tumbler-430ml]]></target>
+                        <image><![CDATA[wheat-straw-tumbler.jpg]]></image>
+                    </banner>
+                </promo>
+                <promo>
+                    <banner>
+                        <section><![CDATA[cms_product_image]]></section>
+                        <alt><![CDATA[Korean Highlighter]]></alt>
+                        <title><![CDATA[Korean Highlighter]]></title>
+                        <target><![CDATA[item/korean-2-colored-highlighter]]></target>
+                        <image><![CDATA[korean-highlighter.jpg]]></image>
+                    </banner>
+                    <banner>
+                        <section><![CDATA[cms_product_image]]></section>
+                        <alt><![CDATA[Deli Highlighter]]></alt>
+                        <title><![CDATA[Deli Highlighter]]></title>
+                        <target><![CDATA[item/deli-highlighter]]></target>
+                        <image><![CDATA[deli-highlighter.jpg]]></image>
+                    </banner>
+                    <banner>
+                        <section><![CDATA[cms_product_image]]></section>
+                        <alt><![CDATA[Sandisk Ultra Dual USB 16GB]]></alt>
+                        <title><![CDATA[Sandisk Ultra Dual USB 16GB]]></title>
+                        <target><![CDATA[item/sandisk-ultra-dual-usb-3-0-16gb-34]]></target>
+                        <image><![CDATA[bts-img01-b.jpg]]></image>
+                    </banner>
+                </promo>
+                <promo>
+                    <banner>
+                        <section><![CDATA[cms_product_image]]></section>
+                        <alt><![CDATA[One Leaf Journal]]></alt>
+                        <title><![CDATA[One Leaf Journal]]></title>
+                        <target><![CDATA[item/one-leaf-journal]]></target>
+                        <image><![CDATA[one-leaf-journal.jpg]]></image>
+                    </banner>
+                    <banner>
+                        <section><![CDATA[cms_product_image]]></section>
+                        <alt><![CDATA[Cute Kitty Notebook]]></alt>
+                        <title><![CDATA[Cute Kitty Notebook]]></title>
+                        <target><![CDATA[item/cute-kitty-notebook-4-in-1]]></target>
+                        <image><![CDATA[cute-kitty-notebook.jpg]]></image>
+                    </banner>
+                    <banner>
+                        <section><![CDATA[cms_product_image]]></section>
+                        <alt><![CDATA[Spiral Notebook]]></alt>
+                        <title><![CDATA[Spiral Notebook]]></title>
+                        <target><![CDATA[item/spiral-notebooks]]></target>
+                        <image><![CDATA[spiral-notebook.jpg]]></image>
+                    </banner>
+                </promo>
+            </products>
+        </productImages>
+    </layout -->
+
+    <layout layoutId="2">
+        <banner>
+            <section><![CDATA[cms_flash_sale]]></section>
+            <alt><![CDATA[Image here]]></alt>
+            <title><![CDATA[Main banner]]></title>
+            <target><![CDATA[/sale/flash-sale]]></target>
+            <image><![CDATA[flash-sale-banner.jpg]]></image>
+        </banner>
+    </layout>
+
+    <layout layoutId="4">
+        <banner>
+            <section><![CDATA[cms_featured_products]]></section>
+            <alt><![CDATA[Today's Deals]]></alt>
+            <title><![CDATA[Today's Deals]]></title>
+            <target><![CDATA[/product-list/todays-deals]]></target>
+            <image><![CDATA[todays-deals.jpg]]></image>
+        </banner>
+        <products>
+            <slug><![CDATA[51770]]></slug><!--t1-->
+            <slug><![CDATA[51780]]></slug><!--t2-->
+            <slug><![CDATA[51979]]></slug><!--t3-->
+            <slug><![CDATA[51989]]></slug><!--t4-->
+            <slug><![CDATA[]]></slug><!--t5-->
+        </products>
+    </layout>
+
+    <layout layoutId="4">
+        <banner>
+            <section><![CDATA[cms_featured_products]]></section>
+            <alt><![CDATA[New Arrivals]]></alt>
+            <title><![CDATA[New Arrivals]]></title>
+            <target><![CDATA[/product-list/new-arrivals]]></target>
+            <image><![CDATA[new-arrivals.jpg]]></image>
+        </banner>
+        <products>
+            <slug><![CDATA[self-stirring-mug-version-3-0-1]]></slug>
+            <slug><![CDATA[power-magnetic-posture-brace-3]]></slug>
+            <slug><![CDATA[3d-fruit-design-back-cushion-pillows-1]]></slug>
+            <slug><![CDATA[vibrating-belt-vibroaction-slimming-massager-18]]></slug>
+            <slug><![CDATA[onlygo-go-114-in-ear-headphone]]></slug>
+        </products>
+    </layout>
+
+    <layout layoutId="5">
+        <banner>
+            <section><![CDATA[cms_featured_category]]></section>
+            <alt><![CDATA[Fashion Collection]]></alt>
+            <title><![CDATA[Fashion Collection]]></title>
+            <target><![CDATA[/item/msx-9m-hem-skirt-with-shoulder-braces]]></target>
+            <image><![CDATA[fashion-collection-2.jpg]]></image>
+        </banner>
+        <categoryId><![CDATA[505840]]></categoryId>
+        <categoryId><![CDATA[505834]]></categoryId>
+        <targetUrl><![CDATA[/product-list/fashion-collection]]></targetUrl>
+        <products>
+            <row>
+                <slug><![CDATA[miracle-socks-for-men-and-women-black-1]]></slug><!--fashion1-->
+                <slug><![CDATA[tko-dimension-muscle-shirt]]></slug><!--fashion2-->
+                <slug><![CDATA[tye-dye-with-v-lace-back]]></slug><!--fashion3-->
+                <slug><![CDATA[nail-perfect-kit-white-5]]></slug><!--fashion4-->
+            </row>
+            <row>
+                <slug><![CDATA[watch-pouch-sw1096-dbr-leather-2-slots]]></slug><!--fashion5-->
+                <slug><![CDATA[msx-5m-big-hem-skirt-with-shoulder-braces]]></slug><!--fashion6-->
+                <slug><![CDATA[20-pieces-cosmetic-brush-set-black-pink]]></slug><!--fashion7-->
+                <slug><![CDATA[1fashion-lipodress-black-1]]></slug><!--fashion8-->
+            </row>
+        </products>
+    </layout>
+
+    <layout layoutId="5">
+        <banner>
+            <section><![CDATA[cms_featured_category]]></section>
+            <alt><![CDATA[Electronic Picks]]></alt>
+            <title><![CDATA[Electronic Picks]]></title>
+            <target><![CDATA[/item/thomson-btc-03-bluetooth-dual-alarm-clock-radio]]></target>
+            <image><![CDATA[electronic-picks-2.jpg]]></image>
+        </banner>
+        <categoryId><![CDATA[505860]]></categoryId>
+        <targetUrl><![CDATA[/product-list/electronic-picks]]></targetUrl>
+        <products>
+            <row>
+                <slug><![CDATA[miracle-socks-for-men-and-women-black-1]]></slug><!--electronic1-->
+                <slug><![CDATA[tko-dimension-muscle-shirt]]></slug><!--electronic2-->
+                <slug><![CDATA[tye-dye-with-v-lace-back]]></slug><!--electronic3-->
+                <slug><![CDATA[nail-perfect-kit-white-5]]></slug><!--electronic4-->
+            </row>
+            <row>
+                <slug><![CDATA[watch-pouch-sw1096-dbr-leather-2-slots]]></slug><!--electronic5-->
+                <slug><![CDATA[msx-5m-big-hem-skirt-with-shoulder-braces]]></slug><!--electronic6-->
+                <slug><![CDATA[20-pieces-cosmetic-brush-set-black-pink]]></slug><!--electronic7-->
+                <slug><![CDATA[1fashion-lipodress-black-1]]></slug><!--electronic8-->
+            </row>
+        </products>
+    </layout>
+
+    <layout layoutId="5">
+        <banner>
+            <section><![CDATA[cms_featured_category]]></section>
+            <alt><![CDATA[Must Have]]></alt>
+            <title><![CDATA[Must Have]]></title>
+            <target><![CDATA[/item/transparent-shoe-box]]></target>
+            <image><![CDATA[must-have-2.jpg]]></image>
+        </banner>
+        <categoryId><![CDATA[505848]]></categoryId>
+        <categoryId><![CDATA[505854]]></categoryId>
+        <categoryId><![CDATA[505872]]></categoryId> 
+        <targetUrl><![CDATA[/product-list/must-haves]]></targetUrl>
+        <products>
+            <row>
+                <slug><![CDATA[miracle-socks-for-men-and-women-black-1]]></slug><!--musthave1-->
+                <slug><![CDATA[tko-dimension-muscle-shirt]]></slug><!--musthave2-->
+                <slug><![CDATA[tye-dye-with-v-lace-back]]></slug><!--musthave3-->
+                <slug><![CDATA[nail-perfect-kit-white-5]]></slug><!--musthave4-->
+            </row>
+            <row>
+                <slug><![CDATA[watch-pouch-sw1096-dbr-leather-2-slots]]></slug><!--musthave5-->
+                <slug><![CDATA[msx-5m-big-hem-skirt-with-shoulder-braces]]></slug><!--musthave6-->
+                <slug><![CDATA[20-pieces-cosmetic-brush-set-black-pink]]></slug><!--musthave7-->
+                <slug><![CDATA[1fashion-lipodress-black-1]]></slug><!--musthave8-->
+            </row>
+        </products>
+    </layout>
+
+    <layout layoutId="5">
+        <banner>
+            <section><![CDATA[cms_featured_category]]></section>
+            <alt><![CDATA[Household Necessities]]></alt>
+            <title><![CDATA[Household Necessities]]></title>
+            <target><![CDATA[/item/perfect-fries-cutter-1]]></target>
+            <image><![CDATA[household-necessities-2.jpg]]></image>
+        </banner>
+        <categoryId><![CDATA[505891]]></categoryId>
+        <categoryId><![CDATA[506615]]></categoryId>
+        <targetUrl><![CDATA[/product-list/household-necessities]]></targetUrl>
+        <products>
+            <row>
+                <slug><![CDATA[kitchen-tool-set-of-6]]></slug>
+                <slug><![CDATA[knife-set-of-12]]></slug>
+                <slug><![CDATA[fry-stand-1]]></slug>
+                <slug><![CDATA[american-heritage-bread-toaster-ahbt-6065]]></slug>
+            </row>
+            <row>
+                <slug><![CDATA[pop-up-standing-spice-rack]]></slug>
+                <slug><![CDATA[clean-robot-multicolor]]></slug>
+                <slug><![CDATA[marubishi-mgs-221-single-burner-gas-stove]]></slug>
+                <slug><![CDATA[manual-juicer-1]]></slug>
+            </row>
+        </products>
+    </layout>
+    
+    <layout layoutId="5">
+        <banner>
+            <section><![CDATA[cms_featured_category]]></section>
+            <alt><![CDATA[Motherhood]]></alt>
+            <title><![CDATA[Motherhood]]></title>
+            <target><![CDATA[/item/irdy-stroller-with-foodtray-and-bottle-holder]]></target>
+            <image><![CDATA[motherhood-2.jpg]]></image>
+        </banner>
+        <categoryId><![CDATA[505866]]></categoryId>
+        <targetUrl><![CDATA[/product-list/motherhood]]></targetUrl>
+        <products>
+            <row>
+                <slug><![CDATA[baby-playpen-baby-crib]]></slug>
+                <slug><![CDATA[luvable-friends-5-pack-lightweight-sleeveless-bodysuits-1]]></slug>
+                <slug><![CDATA[silly-shark-costume-1]]></slug>
+                <slug><![CDATA[milea-honey-hair-and-body-wash]]></slug>
+            </row>
+            <row>
+                <slug><![CDATA[ypad-multimedia-learning-computer-toy-tool-1]]></slug>
+                <slug><![CDATA[luvable-friends-boys-bodysuit-and-pants-set-83507]]></slug>
+                <slug><![CDATA[luvable-friends-animal-hooded-towel-embroidery-1]]></slug>
+                <slug><![CDATA[kiddie-american-superhero-t-shirt]]></slug>
+            </row>
+        </products>
+    </layout>
+    <layout layoutId="5">
+        <banner>
+            <section><![CDATA[cms_featured_category]]></section>
+            <alt><![CDATA[Personal Care]]></alt>
+            <title><![CDATA[Personal Care]]></title>
+            <target><![CDATA[/item/milea-organic-charcoal-clarifying-and-detoxifying-soap-set-of-3]]></target>
+            <image><![CDATA[personal-care-2.jpg]]></image>
+        </banner>
+        <categoryId><![CDATA[505885]]></categoryId>
+        <targetUrl><![CDATA[/product-list/personal-care]]></targetUrl>
+        <products>
+            <row>
+                <slug><![CDATA[active-white-max-glutathione-booster]]></slug>
+                <slug><![CDATA[eye-care-massager-1]]></slug>
+                <slug><![CDATA[milea-all-organic-lip-balm-selection-set-of-3-1]]></slug>
+                <slug><![CDATA[milea-mouthwash]]></slug>
+            </row>
+            <row>
+                <slug><![CDATA[awm-white-soap-active-white-max-triple-whitening-soap]]></slug>
+                <slug><![CDATA[milea-lavender-relaxing-massage-oil]]></slug>
+                <slug><![CDATA[milea-organic-pollen-from-trigona-bees]]></slug>
+                <slug><![CDATA[milea-pimple-care-and-chicken-skin-relief-skin-aide-set-of-2-2]]></slug>
+            </row>
+        </products>
+    </layout>
+
+    <backToSchoolPromoPackage>
+        <package1>
+            <slug>writing-collection</slug>
+            <id>672</id>
+        </package1>
+        <package2>
+            <slug>writing-starter-pack</slug>
+            <id>672</id>
+        </package2>
+        <package3>
+            <slug>art-stuff</slug>
+            <id>672</id>
+        </package3>
+    </backToSchoolPromoPackage>
+</homepage>

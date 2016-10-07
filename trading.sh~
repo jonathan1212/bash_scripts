@@ -1,0 +1,13 @@
+#!/bin/bash
+
+while IFS=, read col1
+do
+    echo "I got:$col1"
+done < ~/Documents/trading.csv
+
+exit 1
+
+#while IFS=, read col1 col2
+#do
+#    echo "I got:$col1|$col2"
+#done < ~/Documents/trading.csv

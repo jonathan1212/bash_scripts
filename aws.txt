@@ -1,0 +1,34 @@
+aws s3 sync web/assets/images/uploads/products/12809/. s3://yilinker-online/assets/images/uploads/products/12809 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/13085/. s3://yilinker-online/assets/images/uploads/products/13085 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/13199/. s3://yilinker-online/assets/images/uploads/products/13199 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/14603/. s3://yilinker-online/assets/images/uploads/products/14603 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/14693/. s3://yilinker-online/assets/images/uploads/products/14693 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/15046/. s3://yilinker-online/assets/images/uploads/products/15046 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/17799/. s3://yilinker-online/assets/images/uploads/products/17799 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/18236/. s3://yilinker-online/assets/images/uploads/products/18236 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/18427/. s3://yilinker-online/assets/images/uploads/products/18427 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/18611/. s3://yilinker-online/assets/images/uploads/products/18611 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/19214/. s3://yilinker-online/assets/images/uploads/products/19214 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/19504/. s3://yilinker-online/assets/images/uploads/products/19504 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/20299/. s3://yilinker-online/assets/images/uploads/products/20299 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/29980/. s3://yilinker-online/assets/images/uploads/products/29980 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/32524/. s3://yilinker-online/assets/images/uploads/products/32524 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/33803/. s3://yilinker-online/assets/images/uploads/products/33803 --cache-control max-age=86400
+aws s3 sync web/assets/images/uploads/products/38896/. s3://yilinker-online/assets/images/uploads/products/38896 --cache-control max-age=86400
+
+
+sudo aws s3 cp web/assets/images/uploads/manufacturer_products/4709/569afa4adc035.jpg s3://yilinker-online/assets/images/uploads/products/11214/thumbnail/ --cache-control max-age=86400
+sudo aws s3 cp web/assets/images/uploads/manufacturer_products/4709/569afa4adc035.jpg s3://yilinker-online/assets/images/uploads/products/11214/small/ --cache-control max-age=86400
+sudo aws s3 cp web/assets/images/uploads/manufacturer_products/4709/569afa4adc035.jpg s3://yilinker-online/assets/images/uploads/products/11214/large/ --cache-control max-age=86400
+sudo aws s3 cp web/assets/images/uploads/manufacturer_products/4709/569afa4adc035.jpg s3://yilinker-online/assets/images/uploads/products/11214/medium/ --cache-control max-age=86400
+sudo aws s3 cp web/assets/images/uploads/manufacturer_products/4709/569afa4adc035.jpg s3://yilinker-online/assets/images/uploads/products/11214/ --cache-control max-age=86400
+
+
+sudo aws s3 cp s3://yilinker-online/assets/images/uploads/manufacturer_products/4710/569af8752ca27.jpg s3://yilinker-online/assets/images/uploads/products/11216/thumbnail/ --cache-control max-age=86400
+sudo aws s3 cp s3://yilinker-online/assets/images/uploads/manufacturer_products/4710/569af8752ca27.jpg s3://yilinker-online/assets/images/uploads/products/11216/small/ --cache-control max-age=86400
+sudo aws s3 cp s3://yilinker-online/assets/images/uploads/manufacturer_products/4710/569af8752ca27.jpg s3://yilinker-online/assets/images/uploads/products/11216/large/ --cache-control max-age=86400
+sudo aws s3 cp s3://yilinker-online/assets/images/uploads/manufacturer_products/4710/569af8752ca27.jpg s3://yilinker-online/assets/images/uploads/products/11216/medium/ --cache-control max-age=86400
+sudo aws s3 cp s3://yilinker-online/assets/images/uploads/manufacturer_products/4710/569af8752ca27.jpg s3://yilinker-online/assets/images/uploads/products/11216/ --cache-control max-age=86400
+
+
+569afa33d1fb8.jpg
